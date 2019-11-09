@@ -1,5 +1,11 @@
 <?php
-namespace Models;
+/**
+ * Created by PhpStorm.
+ * User: safja
+ * Date: 10/4/2019
+ * Time: 2:39 PM
+ */
+namespace App\Models;
 class Model
 {
     public $db;
