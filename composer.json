@@ -1,0 +1,10 @@
+{
+    "require": {        
+        "vlucas/phpdotenv": "^3.6",
+        "phpmailer/phpmailer": "^6.1",        
+        "ext-mysqli": "*",
+        "ext-pdo": "*",
+        "pecee/simple-router": "4.2.0.6",
+        "nesbot/carbon": "^2.26"
+    }
+}
